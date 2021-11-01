@@ -1,7 +1,6 @@
-# Hi 👋
+# Hi, I'm Muhammad Rizqan Fadhil
 
-My Name is **Muhammad Rizqan Fadhil**.\
-Feel free to connect with my LinkedIn account [Linkedin](https://www.linkedin.com/in/rzqnfadhil/)
+Feel free to connect with me [Linkedin](https://www.linkedin.com/in/rzqnfadhil/)
 
 <p align="left">
 <a href="https://github.com/MhmmdRFadhil">
