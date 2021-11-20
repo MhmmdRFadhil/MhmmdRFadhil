@@ -3,8 +3,8 @@
 Informatics Student at Telkom Purwokerto Institute of Technology.
 
 [![github card](https://github-readme-stats.vercel.app/api/pin/?username=MhmmdRFadhil&repo=BFAA-Final-Submission&theme=buefy)](https://github.com/MhmmdRFadhil/BFAA-Final-Submission)
-[![github card](https://github-readme-stats.vercel.app/api/pin/?username=MhmmdRFadhil&repo=Coffee-Shop-App&theme=buefy)](https://github.com/MhmmdRFadhil/Coffee-Shop-App)
-[![github card](https://github-readme-stats.vercel.app/api/pin/?username=MhmmdRFadhil&repo=WisataBanjarmasin&theme=buefy)](https://github.com/MhmmdRFadhil/WisataBanjarmasin)
+[![github card](https://github-readme-stats.vercel.app/api/pin/?username=MhmmdRFadhil&repo=Coffee-Shop-App&theme=graywhite)](https://github.com/MhmmdRFadhil/Coffee-Shop-App)
+[![github card](https://github-readme-stats.vercel.app/api/pin/?username=MhmmdRFadhil&repo=WisataBanjarmasin&theme=graywhite)](https://github.com/MhmmdRFadhil/WisataBanjarmasin)
 
 <p align="left">
   <a href="https://github.com/MhmmdRFadhil">
