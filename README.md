@@ -15,5 +15,5 @@ Informatics Student at Telkom Purwokerto Institute of Technology.
 
 <a href="https://www.instagram.com/rzqnfdhl/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square" height="32px" alt="Instagram"></a>
 <a href="https://www.linkedin.com/in/rzqnfadhil/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?&style=for-the-badge" height="32px" alt="LinkedIn"></a>
-<a href="https://mhmmdrfadhil.github.io/" target="_blank"><img src="https://img.shields.io/badge/website-brightgreen.svg?&style=for-the-badge&logo=website&logoColor=white" height="32px" alt="Website"></a>
+<a href="https://mhmmdrfadhil.github.io/" target="_blank"><img src="https://img.shields.io/badge/website-yellow.svg?&style=for-the-badge" height="32px" alt="Website"></a>
 
