@@ -4,9 +4,6 @@ Informatics Student at Telkom Purwokerto Institute of Technology.
 
 [![github card](https://github-readme-stats.vercel.app/api/pin/?username=MhmmdRFadhil&repo=UrSkripsi&theme=buefy)](https://github.com/MhmmdRFadhil/UrSkripsi)
 [![github card](https://github-readme-stats.vercel.app/api/pin/?username=MhmmdRFadhil&repo=Coffee-Shop-App&theme=buefy)](https://github.com/MhmmdRFadhil/Coffee-Shop-App)
-[![github card](https://github-readme-stats.vercel.app/api/pin/?username=MhmmdRFadhil&repo=BAJP-Final-Submission&theme=buefy)](https://github.com/MhmmdRFadhil/BAJP-Final-Submission)
-[![github card](https://github-readme-stats.vercel.app/api/pin/?username=MhmmdRFadhil&repo=BFAA-Final-Submission&theme=buefy)](https://github.com/MhmmdRFadhil/BFAA-Final-Submission)
-[![github card](https://github-readme-stats.vercel.app/api/pin/?username=MhmmdRFadhil&repo=Kryption&theme=buefy)](https://github.com/MhmmdRFadhil/Kryption)
 
 <p align="left">
   <a href="https://github.com/MhmmdRFadhil">
