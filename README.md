@@ -1,6 +1,6 @@
 ## Hi, Im Muhammad Rizqan Fadhil  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-Informatics Student at Telkom Purwokerto Institute of Technology. 
+Android Developer 
 
 [![github card](https://github-readme-stats.vercel.app/api/pin/?username=MhmmdRFadhil&repo=UrSkripsi&theme=buefy)](https://github.com/MhmmdRFadhil/UrSkripsi)
 [![github card](https://github-readme-stats.vercel.app/api/pin/?username=MhmmdRFadhil&repo=Coffee-Shop-App&theme=buefy)](https://github.com/MhmmdRFadhil/Coffee-Shop-App)
